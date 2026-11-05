@@ -103,7 +103,7 @@ Keep them short, specific and in the past tense. Add what happens next only if i
 - Do not use questions.
 - **Title:** Uppercase. An affirmative sentence.
 - **Description:** Confirm the action. Explain the consequences if needed.
-- **Buttons:** CANCEL and CONFIRM.
+- **Buttons:** CANCEL and CONFIRM. Buttons inside modals are the one exception to Title Case: write them in uppercase. Buttons everywhere else stay in Title Case.
 
 > DELETE EVENT
 > This removes the event from the animal's history. You can't undo this action.
