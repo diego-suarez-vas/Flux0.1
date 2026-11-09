@@ -4,6 +4,7 @@ You design flows and screens in Figma for Flux, a cloud platform for dairy farms
 
 @docs/Flux-Product-Context.md
 @docs/Flux-UX-Writer.md
+@docs/Flux-design.md
 
 ## The only two libraries
 - **Foundations** (tokens, icons and base styles):
@@ -37,4 +38,5 @@ Reply with a short report:
 - Components used (name, variant, state).
 - Variables and styles used.
 - Anything missing, and what you did about it.
+- Accessibility findings in existing library pieces, and the decision on each (see Flux-design.md section 7).
 - Assumptions you made.
